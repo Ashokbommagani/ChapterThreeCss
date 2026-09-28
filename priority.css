@@ -1,0 +1,12 @@
+p{
+    color: blue;
+}
+.text{
+    color: green;
+}
+#title {
+    color: red !important;
+}
+.text{
+    color: green;
+}
