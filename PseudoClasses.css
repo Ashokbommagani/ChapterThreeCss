@@ -1,22 +1,24 @@
-button {
-    background-color: blue;
-    color: white;
-    padding: 10px;
+a:hover {
+    color: red;
 }
+
 button:hover {
     background-color: green;
+    color: white;
 }
-button:active {
-    background-color: red;
-}
+
 input:focus {
-    border :2px solid green;
-    outline: none;
+    border: 2px solid blue;
 }
+
 li:first-child {
     color: red;
-    font-weight: bold;
 }
+
 li:last-child {
     color: blue;
+}
+
+li:nth-child(2) {
+    color: green;
 }
