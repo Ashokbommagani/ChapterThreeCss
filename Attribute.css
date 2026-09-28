@@ -1,4 +1,5 @@
 input[type]
 {
-    border: 2px seagreen;
+    color: red;
+    font-size: 12px;;
 }
