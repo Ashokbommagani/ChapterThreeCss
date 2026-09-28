@@ -1,7 +1,22 @@
-button:hover{
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+button:hover {
+    background-color: green;
+}
+button:active {
     background-color: red;
 }
-input:focus{
-    color: green;
-
+input:focus {
+    border :2px solid green;
+    outline: none;
+}
+li:first-child {
+    color: red;
+    font-weight: bold;
+}
+li:last-child {
+    color: blue;
 }
