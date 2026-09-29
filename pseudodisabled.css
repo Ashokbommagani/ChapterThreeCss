@@ -1,0 +1,4 @@
+input:disabled {
+    background-color: lightsalmon;
+    cursor: not-allowed;
+}
